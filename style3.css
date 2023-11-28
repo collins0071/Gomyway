@@ -1,0 +1,142 @@
+
+.nav-area {
+    background-color: black;
+    color: #fff;
+    display: flex;
+}
+.logo{
+    font-weight: 600;
+    color: #fff;
+    font-size: 50px;
+    margin-left: 40px;
+    align-self: center;
+}
+
+.fa-circle {
+    font-size: 12px;
+    color: #fcba03;
+}
+.nav-area ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+.nav-area ul li {
+    list-style: none;
+    padding-left: 15px;
+    font-size: 20px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+.icons {
+    justify-content: space-around;
+    align-self: center;
+    margin-left: 60px;
+    margin-bottom: 5px;
+}
+.fa-user {
+    flex: 1;
+    padding-left:  10px;
+    padding-right: 10px;
+}
+.banner1 {
+    background-image: url(./images/foodbanner.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    margin: 20px;
+}
+ .top{
+    font-size: 60px;
+    align-items: center;
+    position: relative;
+    top: 200px;
+    margin-left: 30px;
+}
+.top-con {
+    align-self: center;
+}
+.top-button {
+    position: relative;
+    top: 230px;
+    padding: 10px;
+    font-size: 20px;
+    background-color: #fcba03;
+    color: #000;
+    width: 170px;
+    height: 60px;
+    border-radius: 5px;
+    margin-left: 30px;
+    text-transform: uppercase;
+}
+.header1 {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 20px;
+}
+.header1 h2 {
+    font-size: 30px;
+    text-transform: uppercase;
+}
+.header1 h5{
+    color: #1769c2;
+}
+.mini-logos {
+    align-self: center;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+.mini-header {
+    display: flex;
+    gap: 10px;
+}
+.mini-header h5 {
+    font-size: 20px;
+    margin-top: 20px;
+}
+.card{
+    height: 350px;
+    width: 400px !important; 
+    margin: 0 20px ;
+}
+.reply {
+    display: flex;
+    justify-content: space-between;
+    margin: 170px 0 0 0;
+}
+.reply2 {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 0 0 0;
+}
+.reply3 {
+    display: flex;
+    justify-content: space-between;
+   margin: 5px 0 0 0;
+}
+.card-background {
+    background-image: url(./images/backgroundA.webp);
+    background-repeat: no-repeat;
+    height: 60vh;
+    width: 100%;
+    margin: 0 10px;
+}
+.card-background2 {
+    background-image: url(./images/backgroundB.webp);
+    background-repeat: no-repeat;
+    height: 60vh;
+    width: 400px !important;
+    margin: 0 10px;
+}
+.card-background3 {
+    background-image: url(./images/backgroundC.webp);
+    background-repeat: no-repeat;
+    height: 60vh;
+    width: 400px !important;
+    margin: 0 10px;
+}
+
