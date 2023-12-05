@@ -100,9 +100,37 @@
 // add = a + b;
 // console.log(add);
 
+// let x = 10;
+// if(x > 20) {
+//     console.log(`${x} is a bigger number`)
+// } else {
+//     console.log(`${x} is not a number`);
+// }
+
+// let myArray = [
+//     'clothes',
+//     'shares',
+//     car = [
+//         {
+//             name: 'Lamborghini',
+//             model: 'Avantador',
+//             mileage: 3500,
+//         },
+//         {
+//             name: 'G-Wagon',
+//             model: 'G-63',
+//             mileage: 4500,
+//         }
+//     ],
+//     'houses',
+//     'markets',
+// ]
+
+// const addProperty = myArray[2]
+// addProperty.color = 'black'
+// console.log(addProperty)
+
 let x = 10;
-if(x > 20) {
-    console.log(`${x} is a bigger number`)
-} else {
-    console.log(`${x} is not a number`);
+if( x = true){
+    console.log(`${x} is null`)
 }
